@@ -1,6 +1,12 @@
 # Zahra Mazinani
 ### AI & Data Science Engineer | NLP & Computer Vision Enthusiast 🚀
 
+Hi! I'm a passionate AI & Data Science enthusiast with a love for robotics and intelligent systems 🤖.  
+I've actively competed in robotics competitions, tackling challenges in autonomous navigation, computer vision, and real-time decision-making.  
+Exploring the frontiers of artificial intelligence excites me — from building NLP models to deep learning applications, I thrive on solving real-world problems and pushing the boundaries of technology 🚀.  
+Always curious, always learning, and always experimenting!
+
+
 ## 🚀 Top Projects
 
 | Project | Description | Demo / Repo |
