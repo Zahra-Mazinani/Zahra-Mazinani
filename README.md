@@ -20,6 +20,9 @@
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Zahra-Mazinani&theme=dracula&margin-w=15)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zahra-Mazinani&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zahra-Mazinani&layout=compact)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahramazinani/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hz_Mazinani)
 
